@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋  
+MY SELF I AM C.GOWSINGH KUMAR, 
+AI&DS DEPARTMENT,
+PANIMALAR ENGINEERING COLLEGE.
 
 <!--
 **gowsingh123/GOWSINGH123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
